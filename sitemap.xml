@@ -4,7 +4,7 @@
   <url>
     <loc>https://connorleech.info/blog/email-verification-in-a-laravel-5-app/</loc>
     
-    <lastmod>2018-03-27T16:46:16.000Z</lastmod>
+    <lastmod>2018-03-28T17:17:57.000Z</lastmod>
     
   </url>
   
@@ -16,14 +16,14 @@
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/Add-angular-ui-router-to-a-Ruby-On-Rails-app/</loc>
+    <loc>https://connorleech.info/blog/Add-Angular-js-to-Ruby-on-Rails-app/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/Add-Angular-js-to-Ruby-on-Rails-app/</loc>
+    <loc>https://connorleech.info/blog/Add-angular-ui-router-to-a-Ruby-On-Rails-app/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
     
@@ -58,14 +58,14 @@
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/Build-a-quick-admin-panel-in-Laravel-5/</loc>
+    <loc>https://connorleech.info/blog/Build-a-javascript-todo-app-with-express-jade-and-mongodb/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/Build-a-javascript-todo-app-with-express-jade-and-mongodb/</loc>
+    <loc>https://connorleech.info/blog/Build-a-quick-admin-panel-in-Laravel-5/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
     
@@ -93,14 +93,14 @@
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/Build-push-notifications-into-an-ionic-app/</loc>
+    <loc>https://connorleech.info/blog/Build-an-online-forum-with-Laravel%E2%80%8A-Initial-Setup-and-Seeding-Part-1/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/Build-an-online-forum-with-Laravel%E2%80%8A-Initial-Setup-and-Seeding-Part-1/</loc>
+    <loc>https://connorleech.info/blog/Build-push-notifications-into-an-ionic-app/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
     
@@ -212,14 +212,14 @@
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/How-to-Install-MySQL-on-Mac-OSX/</loc>
+    <loc>https://connorleech.info/blog/How-to-Build-Payment-Processing-with-Vuejs-and-Nodejs/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/How-to-Build-Payment-Processing-with-Vuejs-and-Nodejs/</loc>
+    <loc>https://connorleech.info/blog/How-to-Install-MySQL-on-Mac-OSX/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
     
@@ -233,7 +233,7 @@
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/2-Types-of-Software-Engineering-Interviews/</loc>
+    <loc>https://connorleech.info/blog/5-Steps-in-the-Sales-Process/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
     
@@ -387,13 +387,6 @@
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/5-Steps-in-the-Sales-Process/</loc>
-    
-    <lastmod>2018-03-27T16:39:22.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://connorleech.info/blog/deploy-django-to-aws/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
@@ -401,7 +394,7 @@
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/guestbook-application-with-Laravel-5/</loc>
+    <loc>https://connorleech.info/blog/2-Types-of-Software-Engineering-Interviews/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
     
@@ -415,6 +408,13 @@
   </url>
   
   <url>
+    <loc>https://connorleech.info/blog/guestbook-application-with-Laravel-5/</loc>
+    
+    <lastmod>2018-03-27T16:39:22.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://connorleech.info/blog/launch-github-pages-google-domains/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
@@ -422,14 +422,14 @@
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/ssl-https-heroku-google-domains/</loc>
+    <loc>https://connorleech.info/blog/log-in-with-twitter-from-client-with-angular-and-oauth-io/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://connorleech.info/blog/log-in-with-twitter-from-client-with-angular-and-oauth-io/</loc>
+    <loc>https://connorleech.info/blog/ssl-https-heroku-google-domains/</loc>
     
     <lastmod>2018-03-27T16:39:22.000Z</lastmod>
     
